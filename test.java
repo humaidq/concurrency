@@ -1,5 +1,5 @@
 public class test{
-  private static final string MESSAGE_TO_YASEEN = "Don't worry bro we can delete all these files";
+  private static final string MESSAGE_TO_YASEEN = "WE CAN'T DELETE OUR FILES";
   private static final string MESSAGE_CONT = "HOPE WEDNESDAY GOES WELL";
   public test(){
     super(this);
